@@ -5,3 +5,4 @@ Git Graph
 
 Metal Gear Rising Revengence
 2013
+PlayStation 3, Xbox 360, Microsoft Windows, Nvidia Shield TV
