@@ -3,4 +3,4 @@ Git Graph
 *Thomas Birt*
 9/5/2022
 
-Senator Armstrong for President 2024
+Samuel Rodrigues as Jetstream Sam
