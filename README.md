@@ -4,3 +4,4 @@ Git Graph
 9/5/2022
 
 Senator Armstrong for President 2024
+Can't fret over every egg
