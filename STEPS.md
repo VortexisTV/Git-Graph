@@ -31,7 +31,9 @@ Merge "bug-fix" into "bug-fix" in Step 0
 
 <br>
 2 ) Add "Revengence" in README.md
+<br>
 1 ) Add "2013" in README.md
+<br>
 0 ) Add "PlayStation 3, Xbox 360, Microsoft Windows, Nvidia Shield TV" in README.md
 
 ![commit-graph](https://i.imgur.com/FsGTW1k.png)
