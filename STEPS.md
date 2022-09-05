@@ -1,12 +1,21 @@
 Beginning
+<br>
 14) Create new repo "Git-Graph"
+<br>
 13) Add "Metal Gear Rising" to README.md
+<br>
 12) Create new branch "bug-fix"
+<br>
 11) Add "Senator Armstrong for President 2024" to README.md and photo of Senator Armstrong
+<br>
 10) Add Metal Gear Rising photo
+<br>
 9) Create new branch "bug-fix-experimental" based on "bug-fix"
+<br>
 8) Add "Samuel Rodrigues as Jetstream Sam" to README.md
+<br>
 7) Add photo of Samuel Rodrigues
+<br>
 
 Merge "bug-fix-experimental" into "bug-fix" in Step 4
 
@@ -20,8 +29,9 @@ Merge "bug-fix" into "main" in Step 2
 
 Merge "bug-fix" into "bug-fix" in Step 0
 
-2) Add "Revengence" in README.md
-1) Add "2013" in README.md
-0) Add "PlayStation 3, Xbox 360, Microsoft Windows, Nvidia Shield TV" in README.md
+<br>
+2 ) Add "Revengence" in README.md
+1 ) Add "2013" in README.md
+0 ) Add "PlayStation 3, Xbox 360, Microsoft Windows, Nvidia Shield TV" in README.md
 
-![commit-graph](https://imgur.com/a/Yy0SnrY)
+![commit-graph](https://i.imgur.com/FsGTW1k.png)
