@@ -19,13 +19,15 @@ Beginning
 
 Merge "bug-fix-experimental" into "bug-fix" in Step 4
 
-6) Add "Can't fret over every egg" to README.md
-5) Add "Nanomachines, son." to README.md
+6 ) Add "Can't fret over every egg" to README.md
+<br>
+5 ) Add "Nanomachines, son." to README.md
 
 Merge "bug-fix" into "main" in Step 2
 
-4) Add "One day every person in this nation will control their OWN destiny." to README.md
-3) Add "A land of the truely free, damnit" to README.md
+4 ) Add "One day every person in this nation will control their OWN destiny." to README.md
+<br>
+3 ) Add "A land of the truely free, damnit" to README.md
 
 Merge "bug-fix" into "bug-fix" in Step 0
 
